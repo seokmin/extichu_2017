@@ -1,0 +1,6 @@
+{
+	"User": {
+		"UserID": "String KEY",
+		"Nickname": "String"
+	}
+}
